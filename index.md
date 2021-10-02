@@ -47,7 +47,9 @@ José Eduardo de Souza Pimentel
 
 
 
-**2021****AGRADECIMENTOS**
+**2021**
+
+**AGRADECIMENTOS**
 
 Agradeço ao Prof. Dr. Renato Kraide Soffner pelas valiosas contribuições à presente obra. 
 
@@ -96,7 +98,7 @@ Agradeço, também, ao meu irmão Hélio Ricardo de Souza Pimentel, pela percuci
 
 
 
-Dedicado à Zaira e à Natália. 
+Dedicado às minhas amadas esposa Zaira e filha Natália. 
 
 **RESUMO**
 
