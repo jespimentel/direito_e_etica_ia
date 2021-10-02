@@ -39,97 +39,77 @@ Dados da União Europeia (GDPR) e da Lei Geral de Proteção de Dados
 Aprendizagem de máquina - Algoritmos - Redes Neurais Profundas - LGPD -
 Explicabilidade algorítimica
 
-# Sumário {#sumário .TOC-Heading}
+# Sumário
 
-[1 INTRODUÇÃO 13](#introdução)
+[1 INTRODUÇÃO](#introdução)
 
-[2 DOS ALGORITMOS TRADICIONAIS À INTELIGÊNCIA ARTIFICIAL
-15](#dos-algoritmos-tradicionais-à-inteligência-artificial)
+[2 DOS ALGORITMOS TRADICIONAIS À INTELIGÊNCIA ARTIFICIAL](#dos-algoritmos-tradicionais-à-inteligência-artificial)
 
-[2.1 CONTEXTO: ERA DA INFORMAÇÃO 15](#contexto-era-da-informação)
+[2.1 CONTEXTO: ERA DA INFORMAÇÃO](#contexto-era-da-informação)
 
-[2.2 O QUE SÃO ALGORITMOS? 17](#o-que-são-algoritmos)
+[2.2 O QUE SÃO ALGORITMOS?](#o-que-são-algoritmos)
 
-[2.3 INTELIGÊNCIA ARTIFICIAL E APRENDIZAGEM DE MÁQUINA
-18](#inteligência-artificial-e-aprendizagem-de-máquina)
+[2.3 INTELIGÊNCIA ARTIFICIAL E APRENDIZAGEM DE MÁQUINA](#inteligência-artificial-e-aprendizagem-de-máquina)
 
-[2.4 COMO AS MÁQUINAS APRENDEM? 22](#como-as-máquinas-aprendem)
+[2.4 COMO AS MÁQUINAS APRENDEM?](#como-as-máquinas-aprendem)
 
-[2.5 APRENDIZAGEM PROFUNDA (*DEEP LEARNING*)
-27](#aprendizagem-profunda-deep-learning)
+[2.5 APRENDIZAGEM PROFUNDA (*DEEP LEARNING*)](#aprendizagem-profunda-deep-learning)
 
-[3 ALGORITMOS DE "CAIXA PRETA" 36](#algoritmos-de-caixa-preta)
+[3 ALGORITMOS DE "CAIXA PRETA"](#algoritmos-de-caixa-preta)
 
-[3.1 VISÃO GERAL DO PROBLEMA 36](#visão-geral-do-problema)
+[3.1 VISÃO GERAL DO PROBLEMA](#visão-geral-do-problema)
 
-[3.2 EXPLICABILIDADE ALGORITMICA (XAI)
-38](#explicabilidade-algoritmica-xai)
+[3.2 EXPLICABILIDADE ALGORITMICA (XAI)](#explicabilidade-algoritmica-xai)
 
-[3.3 VIESES (*BIAS*) 43](#vieses-bias)
+[3.3 VIESES (*BIAS*)](#vieses-bias)
 
-[3.4 O CASO COMPAS 46](#o-caso-compas)
+[3.4 O CASO COMPAS](#o-caso-compas)
 
-[3.5 SCORE DE CRÉDITO 47](#score-de-crédito)
+[3.5 SCORE DE CRÉDITO](#score-de-crédito)
 
-[3.6 RECONHECIMENTO FACIAL 49](#reconhecimento-facial)
+[3.6 RECONHECIMENTO FACIAL](#reconhecimento-facial)
 
-[3.7 INTELIGÊNCIA ARTIFICIAL E DIREITOS HUMANOS
-53](#inteligência-artificial-e-direitos-humanos)
+[3.7 INTELIGÊNCIA ARTIFICIAL E DIREITOS HUMANOS](#inteligência-artificial-e-direitos-humanos)
 
 [4. A INICIATIVA PRIVADA E A SOCIEDADE CIVIL ORGANIZADA DIANTE DAS
-QUESTÕES ÉTICAS CONCERNENTES À INTELIGÊNCIA ARTIFICIAL
-58](#a-iniciativa-privada-e-a-sociedade-civil-organizada-diante-das-questões-éticas-concernentes-à-inteligência-artificial)
+QUESTÕES ÉTICAS CONCERNENTES À INTELIGÊNCIA ARTIFICIAL](#a-iniciativa-privada-e-a-sociedade-civil-organizada-diante-das-questões-éticas-concernentes-à-inteligência-artificial)
 
 [5 ORGANIZAÇÕES INTERNACIONAIS E LEIS DE PROTEÇÃO DE DADOS DIANTE DA
-INTELIGÊNCIA ARTIFICIAL
-68](#organizações-internacionais-e-leis-de-proteção-de-dados-diante-da-inteligência-artificial)
+INTELIGÊNCIA ARTIFICIAL](#organizações-internacionais-e-leis-de-proteção-de-dados-diante-da-inteligência-artificial)
 
-[5.1 VISÃO GERAL 68](#visão-geral)
+[5.1 VISÃO GERAL](#visão-geral)
 
 [5.2 RECOMENDAÇÃO: RECOMMENDATION OF THE COUNCIL ON ARTIFICIAL
-INTELLIGENCE -- OCDE
-68](#recomendação-recommendation-of-the-council-on-artificial-intelligence-ocde)
+INTELLIGENCE -- OCDE](#recomendação-recommendation-of-the-council-on-artificial-intelligence-ocde)
 
-[5.3 DECLARAÇÃO: G20 MINISTERIAL STATEMENT ON TRADE AND DIGITAL ECONOMY
-71](#declaração-g20-ministerial-statement-on-trade-and-digital-economy)
+[5.3 DECLARAÇÃO: G20 MINISTERIAL STATEMENT ON TRADE AND DIGITAL ECONOMY](#declaração-g20-ministerial-statement-on-trade-and-digital-economy)
 
 [5.4 DIRETRIZES: GUIDELINES ON ARTIFICIAL INTELLIGENCE AND DATA
-PROTECTION -- COUNCIL OF EUROPE
-72](#diretrizes-guidelines-on-artificial-intelligence-and-data-protection-council-of-europe)
+PROTECTION -- COUNCIL OF EUROPE](#diretrizes-guidelines-on-artificial-intelligence-and-data-protection-council-of-europe)
 
-[5.5 LIVRO BRANCO SOBRE A INTELIGÊNCIA ARTIFICIAL DA UNIÃO EUROPEIA
-74](#livro-branco-sobre-a-inteligência-artificial-da-união-europeia)
+[5.5 LIVRO BRANCO SOBRE A INTELIGÊNCIA ARTIFICIAL DA UNIÃO EUROPEIA](#livro-branco-sobre-a-inteligência-artificial-da-união-europeia)
 
-[5.6 APELO PAPAL: ROME CALLS FOR AI ETHICS
-77](#apelo-papal-rome-calls-for-ai-ethics)
+[5.6 APELO PAPAL: ROME CALLS FOR AI ETHICS](#apelo-papal-rome-calls-for-ai-ethics)
 
-[5.7 REGULAMENTO GERAL DE PROTEÇÃO DE DADOS DA UNIÃO EUROPEIA -- GDPR
-79](#regulamento-geral-de-proteção-de-dados-da-união-europeia-gdpr)
+[5.7 REGULAMENTO GERAL DE PROTEÇÃO DE DADOS DA UNIÃO EUROPEIA -- GDPR](#regulamento-geral-de-proteção-de-dados-da-união-europeia-gdpr)
 
-[5.8 LEI GERAL DE PROTEÇÃO DE DADOS -- LGPD
-82](#lei-geral-de-proteção-de-dados-lgpd)
+[5.8 LEI GERAL DE PROTEÇÃO DE DADOS -- LGPD](#lei-geral-de-proteção-de-dados-lgpd)
 
-[5.9 ESTRATÉGIA BRASILEIRA DE INTELIGÊNCIA ARTIFICIAL
-87](#estratégia-brasileira-de-inteligência-artificial)
+[5.9 ESTRATÉGIA BRASILEIRA DE INTELIGÊNCIA ARTIFICIAL](#estratégia-brasileira-de-inteligência-artificial)
 
-[6 PROJETOS DE LEI BRASILEIROS RELATIVOS À INTELIGÊNCIA ARTIFICIAL
-91](#projetos-de-lei-brasileiros-relativos-à-inteligência-artificial)
+[6 PROJETOS DE LEI BRASILEIROS RELATIVOS À INTELIGÊNCIA ARTIFICIAL](#projetos-de-lei-brasileiros-relativos-à-inteligência-artificial)
 
-[6.1 O PROCESSO LEGISLATIVO NO BRASIL
-91](#o-processo-legislativo-no-brasil)
+[6.1 O PROCESSO LEGISLATIVO NO BRASIL](#o-processo-legislativo-no-brasil)
 
-[6.2 PL 5051/2019 e 5691/2019 (SENADO FEDERAL)
-92](#pl-50512019-e-56912019-senado-federal)
+[6.2 PL 5051/2019 e 5691/2019 (SENADO FEDERAL)](#pl-50512019-e-56912019-senado-federal)
 
-[6.3 PL 21/2020 (CÂMARA DOS DEPUTADOS)
-95](#pl-212020-câmara-dos-deputados)
+[6.3 PL 21/2020 (CÂMARA DOS DEPUTADOS)](#pl-212020-câmara-dos-deputados)
 
 [6.4 PL 872/2021 (SENADO FEDERAL) 98](#pl-8722021-senado-federal)
 
-[6.5 VISÃO GERAL SOBRE OS PROJETOS DE LEI
-99](#visão-geral-sobre-os-projetos-de-lei)
+[6.5 VISÃO GERAL SOBRE OS PROJETOS DE LEI](#visão-geral-sobre-os-projetos-de-lei)
 
-[7 CONSIDERAÇÕES FINAIS 102](#considerações-finais)
+[7 CONSIDERAÇÕES FINAIS](#considerações-finais)
 
 **LISTA DE ABREVIATURAS E SIGLAS**
 
@@ -740,8 +720,7 @@ reproduzida abaixo.
 Learning**
 
 ![Interface gráfica do usuário Descrição gerada
-automaticamente](./imagens/media/image1.png){width="6.299304461942257in"
-height="4.006944444444445in"}
+automaticamente](./imagens/media/image1.png)
 
 **Fonte: Blog NVIDIA. 2016. Disponível em:
 \<https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/>.
@@ -1477,8 +1456,7 @@ confiança de 0,842, ao comparar duas fotografias tiradas em intervalo de
 **Figura 2 -- Solução Azure de verificação facial**
 
 ![Tela de celular com publicação numa rede social Descrição gerada
-automaticamente](./imagens/media/image2.png){width="6.296603237095363in"
-height="3.456851487314086in"}
+automaticamente](./imagens/media/image2.png)
 
 **Fonte: Microsoft Azure. Disponível em:
 \<https://azure.microsoft.com/pt-br/services/cognitive-services/face/#features>.
@@ -1899,8 +1877,7 @@ pensamento da marca sobre os valores que a IA deve respeitar.
 **Figura 3 -- Values AI needs to respect**
 
 ![Valores de IA do Futuro
-Computado](./imagens/media/image3.png){width="6.299305555555556in"
-height="3.923611111111111in"}
+Computado](./imagens/media/image3.png)
 
 **Fonte: Microsoft Corporation. Disponível em:
 \<https://docs.microsoft.com/pt-br/azure/cognitive-services/personalizer/ethics-responsible-use>.
