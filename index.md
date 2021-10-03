@@ -115,6 +115,7 @@ PROTECTION -- COUNCIL OF EUROPE](#diretrizes-guidelines-on-artificial-intelligen
 **LISTA DE ABREVIATURAS E SIGLAS**
 
   ------------ ----------------------------------------------------------
+  
   AI           Artificial Intelligence
 
   AutoML       Auto Machine Learning
@@ -144,6 +145,7 @@ PROTECTION -- COUNCIL OF EUROPE](#diretrizes-guidelines-on-artificial-intelligen
   PSI          Pre-Sentence Investigation
 
   XAI          Explainable Artificial Intelligence
+  
   ------------ ----------------------------------------------------------
 
 # 1 INTRODUÇÃO
