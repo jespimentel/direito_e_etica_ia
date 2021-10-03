@@ -147,7 +147,7 @@ PROTECTION -- COUNCIL OF EUROPE](#diretrizes-guidelines-on-artificial-intelligen
   XAI          Explainable Artificial Intelligence
   
   ------------ ----------------------------------------------------------
-
+<a id="introdução"></a>
 # 1 INTRODUÇÃO
 
 A inteligência artificial, particularmente no campo da aprendizagem de
@@ -206,8 +206,10 @@ Artificial, atualmente em trâmite na Câmara dos Deputados e no Senado
 Federal, para verificar se abordam o tema na sua completude e se estão
 aptos a garantir entre nós o uso ético e benéfico dessa tecnologia.
 
+<a id="dos-algoritmos-tradicionais-à-inteligência-artificial"></a>
 # 2 DOS ALGORITMOS TRADICIONAIS À INTELIGÊNCIA ARTIFICIAL
 
+<a id="contexto-era-da-informação"></a>
 ## 2.1 CONTEXTO: ERA DA INFORMAÇÃO
 
 Na década de 80, Toffler (apud PINHEIRO, 2008, p. 6) observou que três
@@ -282,6 +284,7 @@ inteligentes se tornarão aliados para resolver problemas como o
 envelhecimento da população, o recurso limitado à energia elétrica,
 desastres naturais, a desigualdade social e a falta de segurança".
 
+<a id="o-que-são-algoritmos"></a>
 ## 2.2 O QUE SÃO ALGORITMOS? 
 
 A palavra algoritmo deriva do nome do matemático persa Al-Khwarizmi,
@@ -366,6 +369,7 @@ No sentido tradicional, portanto, o algoritmo computacional é o conjunto
 finito de tarefas bem definidas destinado à resolução do problema
 específico para os qual foi criado.
 
+<a id="inteligência-artificial-e-aprendizagem-de-máquina"></a>
 ## 2.3 INTELIGÊNCIA ARTIFICIAL E APRENDIZAGEM DE MÁQUINA
 
 A Inteligência Artificial (IA) é uma área da ciência da computação
@@ -473,6 +477,7 @@ a partir dos dados a que são expostos.
 Nesse caminho, o *machine learning* se apresenta como uma das
 ferramentas que tornam os computadores inteligentes.
 
+<a id="como-as-máquinas-aprendem"></a>
 ## 2.4 COMO AS MÁQUINAS APRENDEM?
 
 A aprendizagem de máquina pressupõe o uso de algoritmos para manipular
@@ -656,6 +661,7 @@ um) se mostram mais eficientes, classificando-os conforme se aproximam
 do resultado desejado; por fim, pela otimização, o algoritmo aponta para
 o modelo de melhor resultado após o processo de treinamento.
 
+<a id="aprendizagem-profunda-deep-learning"></a>
 ## 2.5 APRENDIZAGEM PROFUNDA (*DEEP LEARNING*)
 
 Falar em Inteligência Artificial a partir de 2010 quase sempre diz
@@ -716,7 +722,8 @@ De fato,
 A NVIDIA, fabricante de GPUs (*Graphical Processing Units*)[^10]
 empregadas em sofisticadas soluções de Inteligência Artificial,
 compreende o aprendizado profundo como a evolução do aprendizado de
-máquina e o posiciona no estado da arte (cf. na versão epub).
+máquina e o posiciona no estado da arte (cf. a figura e sua referência 
+na versão ebook).
 
 Desse modo, uma rede neural computacional pode servir a infinitos
 propósitos, embora as seguintes áreas venham se destacando nos dias
@@ -916,8 +923,10 @@ Essa possibilidade, entretanto, observam Abbassi, Kitchens e Ahmad
 (2019), levanta questões sobre como deveria ser a interação entre dados,
 modelos e especialistas para maior controle de todo o processo.
 
+<a id="algoritmos-de-caixa-preta"></a>
 # 3 ALGORITMOS DE "CAIXA PRETA"
 
+<a id="visão-geral-do-problema"></a>
 ## 3.1 VISÃO GERAL DO PROBLEMA
 
 Algoritmos de "caixa preta" compreendem uma metáfora que se relaciona à
@@ -1016,6 +1025,7 @@ relevantes para a solução do problema, o que é mais importante para a
 compreensão do comportamento do sistema do que o conhecimento dos pesos
 das conexões individuais (ZEDNIK, 2019).
 
+<a id="explicabilidade-algoritmica-xai"></a>
 ## 3.2 EXPLICABILIDADE ALGORITMICA (XAI)
 
 Os avanços contínuos da IA no campo do aprendizado profundo têm trazido
@@ -1185,6 +1195,7 @@ máquina.
 sentida de se delegar a algoritmos opacos a tomada de decisão em
 domínios sensíveis.
 
+<a id="vieses-bias"></a>
 ## 3.3 VIESES (*BIAS*)
 
 Um mesmo algoritmo pode servir a diversos domínios, gerando modelos
@@ -1288,6 +1299,7 @@ preditores justos, sendo preferível definir e medir cuidadosamente os
 alvos da previsão a buscar que os algoritmos satisfaçam formalizações
 matemáticas específicas.
 
+<a id="o-caso-compas"></a>
 ## 3.4 O CASO COMPAS 
 
 Os Estados Unidos têm usado a IA para aprimorar a Justiça Criminal.
@@ -1328,6 +1340,7 @@ avaliação do risco (WASHINGTON, 2018).
 O debate público que se instalou após o caso se deveu à descoberta de
 que o modelo contemplava vieses.
 
+<a id="score-de-crédito"></a>
 ## 3.5 SCORE DE CRÉDITO
 
 A IA tem sido largamente empregada para estabelecer pontuação de crédito
@@ -1397,6 +1410,7 @@ tendência nos casos em que a acurácia é próxima a dos modelos opacos e
 há a necessidade de se atender à normatização específica ou conciliar os
 interesses das partes envolvidas.
 
+<a id="reconhecimento-facial"></a>
 ## 3.6 RECONHECIMENTO FACIAL
 
 O reconhecimento facial é a técnica baseada em inteligência artificial
@@ -1500,6 +1514,7 @@ sistemas ou fins ilícitos. Enquanto o vazamento de senha pode ser
 contornado com a sua substituição, os dados biométricos "hackeados"
 podem gerar danos mais persistentes.
 
+<a id="inteligência-artificial-e-direitos-humanos"></a>
 ## 3.7 INTELIGÊNCIA ARTIFICIAL E DIREITOS HUMANOS
 
 O Conselho de Direitos Humanos da Organização das Nações Unidas (ONU)
@@ -1642,6 +1657,7 @@ não é impensável que indivíduos, grupos ou até mesmo governos, por
 razões das mais diversas, se disponham a enganá-la ou mesmo utilizá-la
 para finalidades ilegítimas ou maliciosas.
 
+<a id="a-iniciativa-privada-e-a-sociedade-civil-organizada-diante-das-questões-éticas-concernentes-à-inteligência-artificial"></a>
 # 4. A INICIATIVA PRIVADA E A SOCIEDADE CIVIL ORGANIZADA DIANTE DAS QUESTÕES ÉTICAS CONCERNENTES À INTELIGÊNCIA ARTIFICIAL
 
 A Ética, como ciência teórica, nada diz sobre o que se deve ou não fazer
@@ -1855,7 +1871,8 @@ divulgação de diretrizes da IA responsável. De acordo com a empresa:
 > casa todos os dias (MICROSOFT, 2018)[^42].
 
 Já é bastante conhecida a gravura (figura abaixo) que condensa o
-pensamento da marca sobre os valores que a IA deve respeitar (cf. na versão epub).
+pensamento da marca sobre os valores que a IA deve respeitar (cf. a 
+figura e sua referência na versão ebook).
 
 A IBM se dedica, em meio a outras ações voltadas ao emprego ético da
 inteligência artificial, a construir software de código aberto -- o AI
@@ -1960,8 +1977,10 @@ dos direitos humanos\" ou em tecnologias que coletem ou usem informações
 para vigilância violando \"normas internacionalmente aceitas\" (PICHAI,
 2018).
 
+<a id="organizações-internacionais-e-leis-de-proteção-de-dados-diante-da-inteligência-artificial"></a>
 # 5 ORGANIZAÇÕES INTERNACIONAIS E LEIS DE PROTEÇÃO DE DADOS DIANTE DA INTELIGÊNCIA ARTIFICIAL
 
+<a id="visão-geral"></a>
 ## 5.1 VISÃO GERAL
 
 Nos últimos anos, diversos organismos internacionais e governos vêm
@@ -1979,6 +1998,7 @@ das organizações a que se relacionam.
 Afirmando princípios e restrições do uso das ferramentas de IA, deverão
 inspirar a inevitável -- e iminente -- normatização que o tema reclama.
 
+<a id="recomendação-recommendation-of-the-council-on-artificial-intelligence-ocde"></a>
 ## 5.2 RECOMENDAÇÃO: RECOMMENDATION OF THE COUNCIL ON ARTIFICIAL INTELLIGENCE -- OCDE 
 
 A Organização para a Cooperação e Desenvolvimento Econômico -- OCDE é
@@ -2080,6 +2100,7 @@ da OCDE, de abordagem multidisciplinar, que incluirá um banco de dados
 vivo de estratégias, políticas e iniciativas de IA, que permitirá o
 compartilhamento desses elementos-chave entre as partes interessadas.
 
+<a id="declaração-g20-ministerial-statement-on-trade-and-digital-economy"></a>
 ## 5.3 DECLARAÇÃO: G20 MINISTERIAL STATEMENT ON TRADE AND DIGITAL ECONOMY
 
 Nos dias 8 e 9 de junho de 2019, os países-membros do G20 publicaram sua
@@ -2113,6 +2134,7 @@ de pesquisa e desenvolvimento, desenvolvimento de políticas e
 compartilhamento de informações através do Repositório de Políticas
 Digitais do G20 e outros repositórios.
 
+<a id="diretrizes-guidelines-on-artificial-intelligence-and-data-protection-council-of-europe"></a>
 ## 5.4 DIRETRIZES: GUIDELINES ON ARTIFICIAL INTELLIGENCE AND DATA PROTECTION -- COUNCIL OF EUROPE
 
 As Diretrizes do Conselho da Europa sobre Inteligência Artificial e
@@ -2188,6 +2210,7 @@ i)  que estimulem, inclusive com a destinação de recursos, a
     efeitos potenciais da IA ​​nos indivíduos e na sociedade e haver
     apoio a pesquisas em IA orientada para os direitos humanos.
 
+<a id="livro-branco-sobre-a-inteligência-artificial-da-união-europeia"></a>
 ## 5.5 LIVRO BRANCO SOBRE A INTELIGÊNCIA ARTIFICIAL DA UNIÃO EUROPEIA
 
 A Comissão Europeia publicou, em fevereiro de 2020, seu Livro Branco
@@ -2318,6 +2341,7 @@ f)  **Requisitos específicos para determinadas aplicações de IA**: o
     atuais regras da União Europeia e, nomeadamente, da GDPR também no
     âmbito da inteligência artificial.
 
+<a id="apelo-papal-rome-calls-for-ai-ethics"></a>
 ## 5.6 APELO PAPAL: ROME CALLS FOR AI ETHICS
 
 Em fevereiro de 2020, o Vaticano e a Itália (através do Ministério da
@@ -2376,6 +2400,8 @@ e)  **Confiabilidade**: os sistemas de IA devem ser capazes de funcionar
 f)  **Segurança e privacidade**: os sistemas de IA devem funcionar com
     segurança e respeitar a privacidade dos usuários.
 
+
+<a id="regulamento-geral-de-proteção-de-dados-da-união-europeia-gdpr"></a>
 ## 5.7 REGULAMENTO GERAL DE PROTEÇÃO DE DADOS DA UNIÃO EUROPEIA -- GDPR
 
 As democracias modernas têm conferido às pessoas instrumentos legais
@@ -2510,6 +2536,7 @@ que "a menos que a UE reforme o GDPR, os países europeus ficarão para
 trás de outros, tais como os Estados Unidos e a China, no
 desenvolvimento e utilização da IA".
 
+<a id="lei-geral-de-proteção-de-dados-lgpd"></a>
 ## 5.8 LEI GERAL DE PROTEÇÃO DE DADOS -- LGPD
 
 No Brasil, a Lei nº 13.709, de 14 de agosto de 2018, conhecida como Lei
@@ -2704,6 +2731,7 @@ pessoais, com inequívoca repercussão nas soluções de IA, que coloca o
 Brasil no grupo de mais de centena de países que possuem regramento
 jurídico restritivo para o tratamento dessas informações.
 
+<a id="estratégia-brasileira-de-inteligência-artificial"></a>
 ## 5.9 ESTRATÉGIA BRASILEIRA DE INTELIGÊNCIA ARTIFICIAL
 
 A Estratégia Brasileira de Inteligência Artificial (EBIA) foi instituída
@@ -2842,8 +2870,10 @@ h)  Adoção do conceito *Ethics by desgin*, pelo qual a preocupação com
     as questões éticas deverá estar presente em todos os projetos e
     desde a sua concepção.
 
+<a id="projetos-de-lei-brasileiros-relativos-à-inteligência-artificial"></a>
 # 6 PROJETOS DE LEI BRASILEIROS RELATIVOS À INTELIGÊNCIA ARTIFICIAL
 
+<a id="o-processo-legislativo-no-brasil"></a>
 ## 6.1 O PROCESSO LEGISLATIVO NO BRASIL
 
 Nas democracias modernas, a lei é considerada a principal fonte do
@@ -2899,6 +2929,7 @@ Delineadas em linhas gerais as etapas do processo legislativo,
 discriminam-se os principais projetos de lei sobre Inteligência
 Artificial atualmente em trâmite.
 
+<a id="pl-50512019-e-56912019-senado-federal"></a>
 ## 6.2 PL 5051/2019 e 5691/2019 (SENADO FEDERAL)
 
 Os projetos de lei (PL) nº 5051 e 5691, ambos de 2019 e de autoria do
@@ -3014,6 +3045,7 @@ Na justificação do projeto, o Senador Styvenson Valentim consigna:
 > à implantação de um ecossistema tecnológico que incorpore esse novo
 > fator de crescimento (BRASIL, 2019c).
 
+<a id="pl-212020-câmara-dos-deputados"></a>
 ## 6.3 PL 21/2020 (CÂMARA DOS DEPUTADOS)
 
 No início de 2020, o Deputado Federal Eduardo Bismarck (PDT/CE)
@@ -3124,6 +3156,7 @@ algoritmos pelas plataformas digitais na internet, assegurando
 transparência no uso das ferramentas computacionais que possam induzir a
 tomada de decisão ou atuar sobre as preferências dos usuários".
 
+<a id="pl-8722021-senado-federal"></a>
 ## 6.4 PL 872/2021 (SENADO FEDERAL)
 
 O PL 872/2021, de autoria do Senador Veneziano Vital do Rêgo (MDB/PB) é
@@ -3187,6 +3220,7 @@ Na justificação, o autor afirma que a proposição é destinada
 > com especial destaque para a Declaração de Montreal e as recomendações
 > da Organização para a Cooperação e Desenvolvimento Econômico (OCDE).
 
+<a id="visão-geral-sobre-os-projetos-de-lei"></a>
 ## 6.5 VISÃO GERAL SOBRE OS PROJETOS DE LEI
 
 Temos, no momento presente, duas propostas mais promissoras em termos de
@@ -3273,6 +3307,7 @@ Nesse cenário, o PL 5691, de 2019, é o que merece maior atenção da
 sociedade e, entre os comentados, o de maiores viabilidade e
 aplicabilidade.
 
+<a id="considerações-finais"></a>
 # 7 CONSIDERAÇÕES FINAIS
 
 A presente obra evidenciou que a Inteligência Artificial, especialmente
