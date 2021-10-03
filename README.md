@@ -6,4 +6,5 @@ A obra faz a interseção do Direito com a Ciência da Computação, nos campos 
 ![](capa.jpg)
 
 eBook disponível na Amazon.com.br.
+
 Saiba mais: https://www.amazon.com.br/dp/B098MTV4HF/ref=cm_sw_em_r_mt_dp_3KCRTSRQDAZPKQJAGFCY?_encoding=UTF8&psc=1
