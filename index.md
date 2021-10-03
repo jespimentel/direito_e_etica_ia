@@ -1456,7 +1456,7 @@ A Microsoft possui sua solução de reconhecimento facial e a
 disponibiliza para teste no site da Azure. No teste realizado, o
 algoritmo conseguiu estabelecer a identidade do autor, com índice de
 confiança de 0,842, ao comparar duas fotografias tiradas em intervalo de
-30 anos (cf. na versão epub).
+30 anos (cf. a figura e sua referência na versão ebook).
 
 Na medida em que a tecnologia de reconhecimento facial se difunde,
 diversas preocupações vêm sendo levantadas pela sociedade civil e
