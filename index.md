@@ -115,35 +115,35 @@ PROTECTION -- COUNCIL OF EUROPE](#diretrizes-guidelines-on-artificial-intelligen
 **LISTA DE ABREVIATURAS E SIGLAS**
 
   ------------ ----------------------------------------------------------
-  AI          |Artificial Intelligence
+  AI           Artificial Intelligence
 
-  AutoML      |Auto Machine Learning
+  AutoML       Auto Machine Learning
 
-  COMPAS      |Corretional Offender management Profiling for Alternative
+  COMPAS       Corretional Offender management Profiling for Alternative
                Sanctions
 
-  DL          |Deep Learning
+  DL           Deep Learning
 
-  EBIA        |Estratégia Brasileira de Inteligência Artificial (Portaria
+  EBIA         Estratégia Brasileira de Inteligência Artificial (Portaria
                nº4.617, de 6 de abril de 2021, do Ministério da Ciência,
                Tecnologia e Inovações)
 
-  FICO        |Fair Isaac Corporation
+  FICO         Fair Isaac Corporation
 
-  GDPR        |General Data Protection Regulation (Regulamento Geral de
+  GDPR         General Data Protection Regulation (Regulamento Geral de
                Proteção de Dados da União Europeia)
 
-  GIRP        |Global Model Interpretation via Recursive Partitioning
+  GIRP         Global Model Interpretation via Recursive Partitioning
 
-  IA          |Inteligência Artificial
+  IA           Inteligência Artificial
 
-  LGPD        |Lei Geral de Proteção de Dados (Lei nº 13.709/2018)
+  LGPD         Lei Geral de Proteção de Dados (Lei nº 13.709/2018)
 
-  ML          |Machine Learning
+  ML           Machine Learning
 
-  PSI         |Pre-Sentence Investigation
+  PSI          Pre-Sentence Investigation
 
-  XAI         |Explainable Artificial Intelligence
+  XAI          Explainable Artificial Intelligence
   ------------ ----------------------------------------------------------
 
 # 1 INTRODUÇÃO
