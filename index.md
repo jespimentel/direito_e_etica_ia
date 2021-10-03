@@ -115,35 +115,35 @@ PROTECTION -- COUNCIL OF EUROPE](#diretrizes-guidelines-on-artificial-intelligen
 **LISTA DE ABREVIATURAS E SIGLAS**
 
   ------------ ----------------------------------------------------------
-  AI           Artificial Intelligence
+  AI          |Artificial Intelligence
 
-  AutoML       Auto Machine Learning
+  AutoML      |Auto Machine Learning
 
-  COMPAS       Corretional Offender management Profiling for Alternative
+  COMPAS      |Corretional Offender management Profiling for Alternative
                Sanctions
 
-  DL           Deep Learning
+  DL          |Deep Learning
 
-  EBIA         Estratégia Brasileira de Inteligência Artificial (Portaria
+  EBIA        |Estratégia Brasileira de Inteligência Artificial (Portaria
                nº4.617, de 6 de abril de 2021, do Ministério da Ciência,
                Tecnologia e Inovações)
 
-  FICO         Fair Isaac Corporation
+  FICO        |Fair Isaac Corporation
 
-  GDPR         General Data Protection Regulation (Regulamento Geral de
+  GDPR        |General Data Protection Regulation (Regulamento Geral de
                Proteção de Dados da União Europeia)
 
-  GIRP         Global Model Interpretation via Recursive Partitioning
+  GIRP        |Global Model Interpretation via Recursive Partitioning
 
-  IA           Inteligência Artificial
+  IA          |Inteligência Artificial
 
-  LGPD         Lei Geral de Proteção de Dados (Lei nº 13.709/2018)
+  LGPD        |Lei Geral de Proteção de Dados (Lei nº 13.709/2018)
 
-  ML           Machine Learning
+  ML          |Machine Learning
 
-  PSI          Pre-Sentence Investigation
+  PSI         |Pre-Sentence Investigation
 
-  XAI          Explainable Artificial Intelligence
+  XAI         |Explainable Artificial Intelligence
   ------------ ----------------------------------------------------------
 
 # 1 INTRODUÇÃO
@@ -714,18 +714,7 @@ De fato,
 A NVIDIA, fabricante de GPUs (*Graphical Processing Units*)[^10]
 empregadas em sofisticadas soluções de Inteligência Artificial,
 compreende o aprendizado profundo como a evolução do aprendizado de
-máquina e o posiciona no estado da arte, conforme sugere a figura
-reproduzida abaixo.
-
-**Figura 1 -- Artificial Intelligence, Machine Learning and Deep
-Learning**
-
-![Interface gráfica do usuário Descrição gerada
-automaticamente](./imagens/media/image1.png)
-
-**Fonte: Blog NVIDIA. 2016. Disponível em:
-\<https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/>.
-Acesso em: 28 mar. 2021.**
+máquina e o posiciona no estado da arte (cf. na versão epub).
 
 Desse modo, uma rede neural computacional pode servir a infinitos
 propósitos, embora as seguintes áreas venham se destacando nos dias
@@ -1452,16 +1441,7 @@ A Microsoft possui sua solução de reconhecimento facial e a
 disponibiliza para teste no site da Azure. No teste realizado, o
 algoritmo conseguiu estabelecer a identidade do autor, com índice de
 confiança de 0,842, ao comparar duas fotografias tiradas em intervalo de
-30 anos (Figura 2).
-
-**Figura 2 -- Solução Azure de verificação facial**
-
-![Tela de celular com publicação numa rede social Descrição gerada
-automaticamente](./imagens/media/image2.png)
-
-**Fonte: Microsoft Azure. Disponível em:
-\<https://azure.microsoft.com/pt-br/services/cognitive-services/face/#features>.
-Acesso em: 14 abr. 2021.**
+30 anos (cf. na versão epub).
 
 Na medida em que a tecnologia de reconhecimento facial se difunde,
 diversas preocupações vêm sendo levantadas pela sociedade civil e
@@ -1873,16 +1853,7 @@ divulgação de diretrizes da IA responsável. De acordo com a empresa:
 > casa todos os dias (MICROSOFT, 2018)[^42].
 
 Já é bastante conhecida a gravura (figura abaixo) que condensa o
-pensamento da marca sobre os valores que a IA deve respeitar.
-
-**Figura 3 -- Values AI needs to respect**
-
-![Valores de IA do Futuro
-Computado](./imagens/media/image3.png)
-
-**Fonte: Microsoft Corporation. Disponível em:
-\<https://docs.microsoft.com/pt-br/azure/cognitive-services/personalizer/ethics-responsible-use>.
-Acesso em: 30 abr. 2021.**
+pensamento da marca sobre os valores que a IA deve respeitar (cf. na versão epub).
 
 A IBM se dedica, em meio a outras ações voltadas ao emprego ético da
 inteligência artificial, a construir software de código aberto -- o AI
@@ -2049,9 +2020,6 @@ c)  **Transparência e explicabilidade**: Os atores de IA devem se
     informações significativas, adequadas ao contexto e consistentes com
     o estado da arte, que abrangem:
 
-```{=html}
-<!-- -->
-```
 1)  promover uma compreensão geral dos sistemas de IA;
 
 2)  conscientizar as partes interessadas sobre suas interações com
@@ -2065,9 +2033,6 @@ c)  **Transparência e explicabilidade**: Os atores de IA devem se
     entender sobre os fatores e a lógica que serviu de base para a
     previsão, recomendação ou decisão.
 
-```{=html}
-<!-- -->
-```
 d)  **Robustez, segurança e proteção**: Os sistemas de IA devem ser
     robustos e seguros durante todo o seu ciclo de vida, de modo que,
     mesmo em condições de uso anormal ou indevido, funcionem
