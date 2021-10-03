@@ -2,6 +2,7 @@
 
 **DIREITO E ÉTICA DA INTELIGÊNCIA ARTIFICIAL E DOS ALGORITMOS DE "CAIXA
 PRETA"**
+
 **José Eduardo de Souza Pimentel (2021)**
 
 **RESUMO**
