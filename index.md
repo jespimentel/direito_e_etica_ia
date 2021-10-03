@@ -4,6 +4,7 @@ José Eduardo de Souza Pimentel
 PRETA"**
 
 **2021**\
+
 **AGRADECIMENTOS**
 
 Agradeço ao Prof. Dr. Renato Kraide Soffner pelas valiosas contribuições
@@ -39,7 +40,7 @@ Dados da União Europeia (GDPR) e da Lei Geral de Proteção de Dados
 Aprendizagem de máquina - Algoritmos - Redes Neurais Profundas - LGPD -
 Explicabilidade algorítimica
 
-# Sumário
+# SUMÁRIO
 
 [1 INTRODUÇÃO](#introdução)
 
