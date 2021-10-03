@@ -28,6 +28,18 @@ Dados da União Europeia (GDPR) e da Lei Geral de Proteção de Dados
 Aprendizagem de máquina - Algoritmos - Redes Neurais Profundas - LGPD -
 Explicabilidade algorítimica
 
+**AGRADECIMENTOS**
+
+Agradeço ao Prof. Dr. Renato Kraide Soffner pelas valiosas contribuições
+à presente obra.
+
+Agradeço, também, ao meu irmão Hélio Ricardo de Souza Pimentel, pela
+percuciente revisão.
+
+**DEDICATÓRIA**
+
+> Dedicado às minhas amadas esposa Zaira e filha Natália.
+
 # SUMÁRIO
 
 [1 INTRODUÇÃO](#introdução)
@@ -4138,17 +4150,3 @@ em: 27 mar. 2021.
     pós-moderno. In: **Revista dos Tribunais**, vol. 986/2017, p.
     345-362, dez. 2017. Disponível em:
     \<https://www.revistadostribunais.com.br>. Acesso em 26 maio 2021).
-    
-    
-    
-**AGRADECIMENTOS**
-
-Agradeço ao Prof. Dr. Renato Kraide Soffner pelas valiosas contribuições
-à presente obra.
-
-Agradeço, também, ao meu irmão Hélio Ricardo de Souza Pimentel, pela
-percuciente revisão.
-
-**DEDICATÓRIA**
-
-> Dedicado às minhas amadas esposa Zaira e filha Natália.
