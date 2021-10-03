@@ -1,21 +1,8 @@
-José Eduardo de Souza Pimentel
+<img src="capa.jpg" width="200">
 
 **DIREITO E ÉTICA DA INTELIGÊNCIA ARTIFICIAL E DOS ALGORITMOS DE "CAIXA
 PRETA"**
-
-**2021**
-
-**AGRADECIMENTOS**
-
-Agradeço ao Prof. Dr. Renato Kraide Soffner pelas valiosas contribuições
-à presente obra.
-
-Agradeço, também, ao meu irmão Hélio Ricardo de Souza Pimentel, pela
-percuciente revisão.
-
-**DEDICATÓRIA**
-
-> Dedicado às minhas amadas esposa Zaira e filha Natália.
+**José Eduardo de Souza Pimentel - (c)2021**
 
 **RESUMO**
 
@@ -106,7 +93,7 @@ PROTECTION -- COUNCIL OF EUROPE](#diretrizes-guidelines-on-artificial-intelligen
 
 [6.3 PL 21/2020 (CÂMARA DOS DEPUTADOS)](#pl-212020-câmara-dos-deputados)
 
-[6.4 PL 872/2021 (SENADO FEDERAL) 98](#pl-8722021-senado-federal)
+[6.4 PL 872/2021 (SENADO FEDERAL)](#pl-8722021-senado-federal)
 
 [6.5 VISÃO GERAL SOBRE OS PROJETOS DE LEI](#visão-geral-sobre-os-projetos-de-lei)
 
@@ -4150,3 +4137,17 @@ em: 27 mar. 2021.
     pós-moderno. In: **Revista dos Tribunais**, vol. 986/2017, p.
     345-362, dez. 2017. Disponível em:
     \<https://www.revistadostribunais.com.br>. Acesso em 26 maio 2021).
+    
+    
+    
+**AGRADECIMENTOS**
+
+Agradeço ao Prof. Dr. Renato Kraide Soffner pelas valiosas contribuições
+à presente obra.
+
+Agradeço, também, ao meu irmão Hélio Ricardo de Souza Pimentel, pela
+percuciente revisão.
+
+**DEDICATÓRIA**
+
+> Dedicado às minhas amadas esposa Zaira e filha Natália.
